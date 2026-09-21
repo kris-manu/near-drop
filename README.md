@@ -1,4 +1,4 @@
-# ShareLAN
+# NearDrop
 
 A simple two-way local-network sharing app for sending:
 
@@ -26,7 +26,7 @@ npm start
 The terminal will show something like:
 
 ```text
-ShareLAN is running
+NearDrop is running
 PC:     http://localhost:3000
 Phone:  http://192.168.1.25:3000
 ```
